@@ -29,8 +29,7 @@ body.escuro {
     --primary-text-color: #FFF;
     -secondary-text-color:#ABC1E1;
     --button-bg:#3B4D66;
-    --shadow:0px 16px 40px 0px rgba(49,62,81,0.14)
-
+    --shadow:0px 16px 40px 0px rgba(49,62,81,0.14);
 }
 
 body {
