@@ -68,6 +68,7 @@ header {
     border: 0;
     border-radius: 999px;
     padding: 4px;
+    cursor: pointer;
 }
 
 .tema button div {
@@ -122,6 +123,7 @@ main {
     font-size: 18px;
     font-weight: 500;
     color: var(--primary-text-color);
+    cursor: pointer;
 }
 
 .assuntos button div {
